@@ -22,6 +22,18 @@ The admin holds the rights to manage (add/remove/modify) the details of doctors 
 facilities; and also to allot a room to a patient requiring hospitalization. This portal is, however,
 ***password-protected***.
 
+# Instructions on Running the File
+1. Download the [Source Code](https://github.com/Varada-D/Hospital-Management-System/blob/main/HospitalManagementSystem.java)
+2. Ensure that you have [JDK 11](https://www.oracle.com/in/java/technologies/javase/jdk11-archive-downloads.html) installed in your machine
+3. Open your Command Prompt, and navigate to the folder containing the source code  
+        > Syntax in case the source code is in the same drive as the current: **cd \<path\>**  
+        > If you need to change drive to navigate to the required folder: **cd \d \<path\>**
+4. After navigating to the required path, compile the java file by typing:  
+        > If you haven't changed the file name of the source code: **javac HospitalManagementSystem.java**  
+        > Else: **javac \<filename\>.java**  
+5. On successful compilation, run the class containing the main function  
+        > If you haven't changed the class names: **java Hospital**  
+        > Else: **java \<name_of_class_containing_main_function\>**
 
 # Future Enhancements
 * The future updates for this project can contain data validation for user inputs. This would ensure that we are getting a valid input from the user.
@@ -31,5 +43,5 @@ facilities; and also to allot a room to a patient requiring hospitalization. Thi
 
 # Demo, Source Code and Project Report
 * A demo of the project is available at: [Demo Video](https://github.com/Varada-D/Hospital-Management-System/blob/main/Hospital%20Management%20System%20Demo.mp4)
-* For the source code for the project, kindly refer: [Source Code]()
+* For the source code for the project, kindly refer: [Source Code](https://github.com/Varada-D/Hospital-Management-System/blob/main/HospitalManagementSystem.java)
 * The project report is available at: [Project Report](https://github.com/Varada-D/Hospital-Management-System/blob/main/Hospital%20Management%20System%20-%20Project%20Report.pdf)
