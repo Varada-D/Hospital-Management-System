@@ -1,0 +1,9 @@
+
+Varada Deshpande	123	12	General Ward	500
+Avanish Deshpande	345	23	Semi-ward	1000
+Devendra Sharma	456	54	Deluxe Room	1500
+Ajay Sharma	109	45	Deluxe Room	1500
+Saurabh shah	5	2	Deluxe Room	1500
+Tarun sinha	33	5	Semi-ward	1000
+Bhuvam bam	34	5	Semi-ward	1000
+Shubham Patel	8328	21	Semi-ward	1000
