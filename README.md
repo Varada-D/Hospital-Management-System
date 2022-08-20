@@ -30,6 +30,6 @@ facilities; and also to allot a room to a patient requiring hospitalization. Thi
 
 
 # Demo, Source Code and Project Report
-* A demo of the project is available at: [Demo Video]()
+* A demo of the project is available at: [Demo Video](https://github.com/Varada-D/Hospital-Management-System/blob/main/Hospital%20Management%20System%20Demo.mp4)
 * For the source code for the project, kindly refer: [Source Code]()
 * The project report is available at: [Project Report](https://github.com/Varada-D/Hospital-Management-System/blob/main/Hospital%20Management%20System%20-%20Project%20Report.pdf)
